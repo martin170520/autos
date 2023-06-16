@@ -5,19 +5,21 @@
       "marca": "Toyota",
       "modelo": "Yaris",
       "precio": "S/30,000",
-      "img-carro": "https://postimg.cc/sG3fvVB5"
+      "img-carro": "https://postimg.cc/06chpDyW"
     },
     {
       "id": 2,
       "marca": "Kia",
       "modelo": "Rio",
-      "precio": "S/28,000"
+      "precio": "S/28,000",
+      "img-carro": "https://postimg.cc/sG3fvVB5"
     },
     {
       "id": 3,
       "marca": "hiunday",
       "modelo": "Elantra",
-      "precio": "S/31,000"
+      "precio": "S/31,000",
+      "img-carro": "https://postimg.cc/4YG0qBK2"
     }
   ],
   "profile": {
