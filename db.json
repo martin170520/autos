@@ -20,6 +20,20 @@
       "modelo": "Elantra",
       "precio": "S/31,000",
       "img-carro": "https://postimg.cc/4YG0qBK2"
+    },
+    {
+      "id": 4,
+      "marca": "Honda",
+      "modelo": "Civic",
+      "precio": "S/35,000",
+      "img-carro": "https://postimg.cc/JyMGyVs3"
+    },
+    {
+      "id": 5,
+      "marca": "BMW",
+      "modelo": "X6",
+      "precio": "S/40,000",
+      "img-carro": "https://postimg.cc/YGy9yvb8"
     }
   ],
   "profile": {
