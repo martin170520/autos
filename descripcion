@@ -1,0 +1,25 @@
+{
+  "Autos": [
+    {
+      "id": 1,
+      "marca": "Toyota",
+      "modelo": "Yaris",
+      "precio": "S/30,000"
+    },
+    {
+      "id": 2,
+      "marca": "Kia",
+      "modelo": "Rio",
+      "precio": "S/28,000"
+    },
+    {
+      "id": 3,
+      "marca": "hiunday",
+      "modelo": "Elantra",
+      "precio": "S/31,000"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
