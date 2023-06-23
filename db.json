@@ -19,21 +19,21 @@
       "marca": "hiunday",
       "modelo": "Elantra",
       "precio": "S/31,000",
-      "img-carro": "https://postimg.cc/4YG0qBK2"
+      "img-carro": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_62e6bfeb89b1459c97375a69452d67df.webp"
     },
     {
       "id": 4,
       "marca": "Honda",
       "modelo": "Civic",
       "precio": "S/35,000",
-      "img-carro": "https://postimg.cc/JyMGyVs3"
+      "img-carro": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_1d6e245013354690874907af24fbca7c.webp"
     },
     {
       "id": 5,
       "marca": "BMW",
       "modelo": "X6",
       "precio": "S/40,000",
-      "img-carro": "https://postimg.cc/YGy9yvb8"
+      "img-carro": "https://www.bmw.com.pe/content/dam/bmw/common/all-models/x-series/x6/2023/highlights/bmw-X-series-x6-ms-m-sport-package.jpg"
     }
   ],
   "profile": {
